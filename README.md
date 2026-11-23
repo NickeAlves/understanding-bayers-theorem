@@ -2,7 +2,7 @@
 
 # Summary
 
-My goal is understanding how the Bayes' Theorem work and how I can apply this.
+My goal is to understand how the Bayes' Theorem works and how it can be applied in practice.
 
 # Bayes' Theorem
 
@@ -48,7 +48,7 @@ We want to find P(Disease∣Positive), the probability of having the disease giv
 
 ---
 
-## References based
+## References and learning resources
 
 Wikipedia: [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
 
